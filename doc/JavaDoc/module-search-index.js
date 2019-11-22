@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"slogo_team01"}]

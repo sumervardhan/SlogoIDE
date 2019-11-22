@@ -1,0 +1,10 @@
+.my-label {
+    -fx-font-family: "Century Gothic";
+    -fx-font-weight: bold;
+    -fx-font-size: 12;
+}
+
+.my-val {
+    -fx-font-family: "Century Gothic";
+    -fx-font-size: 12;
+}

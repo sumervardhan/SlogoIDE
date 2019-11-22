@@ -1,0 +1,11 @@
+.controllable-pane {
+    -fx-max-width: 300;
+    -fx-max-height: 300;
+    -fx-min-width: 300;
+    -fx-min-height: 300;
+}
+
+.pane-name {
+    -fx-font-family: "Century Gothic";
+    -fx-font-size: 12;
+}

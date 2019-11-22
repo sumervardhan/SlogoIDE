@@ -1,0 +1,4 @@
+.feature-pane {
+    -fx-pref-width: 250;
+    -fx-min-width: 250;
+}

@@ -1,0 +1,25 @@
+.cmd-main {
+    -fx-background-color: aquamarine;
+    -fx-pref-width: 400;
+    -fx-pref-height: 100;
+    -fx-min-height: 30;
+    -fx-min-width: 10;
+}
+
+.cmd-text-area {
+    -fx-font-family: "Courier New";
+    -fx-font-size: 12;
+}
+
+.cmd-button-area {
+    -fx-pref-width: 100;
+    -fx-max-width: 100;
+    -fx-alignment: top-center;
+    -fx-spacing: 5;
+}
+
+.cmd-button {
+    -fx-pref-width: 80;
+    -fx-font-family: "Courier New";
+    -fx-font-size: 12;
+}

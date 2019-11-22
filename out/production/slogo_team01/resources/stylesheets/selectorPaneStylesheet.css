@@ -1,0 +1,13 @@
+.selector-pane {
+    -fx-max-width: 500;
+}
+
+.my-label {
+    -fx-font-family: "Century Gothic";
+    -fx-font-size: 15;
+}
+
+.my-button {
+    -fx-font-size: 12;
+    -fx-font-family: "Century Gothic";
+}
